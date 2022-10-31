@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonanomis, swimming in software sea 11+ years
 - 👀 I’m interested in coding 💻, reading lots of books 📖, yoga 🧘 and meditation 🙏🏻.
-- 🌱 I’m currently learning React :D
+- 🌱 I’m currently learning and advancing React :D
 - 📫 How to reach me: linkedin (/in/simonaristovska/)
 
 <!---
