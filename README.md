@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonanomis
-- 👀 I’m interested in coding, reading lots of books, yoga and meditation.
+- 👀 I’m interested in coding 💻, reading lots of books 📖, yoga 🧘 and meditation 🙏🏻.
 - 🌱 I’m currently learning React :D
 - 📫 How to reach me: linkedin (/in/simonaristovska/)
 
